@@ -25,7 +25,7 @@
     <a href = "mailto: dimersontrabalho@outlook.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https:https://www.linkedin.com/in/dimerson-junior-baa72b256/">
+    <a href = "https://www.linkedin.com/in/dimerson-junior-baa72b256/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/wassabdev/">
